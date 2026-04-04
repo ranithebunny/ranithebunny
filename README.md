@@ -16,7 +16,7 @@ My current tech stack and tools I’m familiar with.
 
 ---
 
-## 🌱 What I’m Learning Right No
+## 🌱 What I’m Learning Right Now
 Technologies I’m actively exploring and improving on.
 
 [![Exploring](https://skillicons.dev/icons?i=flutter,nodejs)](https://skillicons.dev)
@@ -25,5 +25,5 @@ Technologies I’m actively exploring and improving on.
 
 ## Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rania-san-pedro-638a472a9/)
 - 📧 Email: rania.sanpedro@gmail.com

@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m an Information Systems student currently exploring different paths in tech, with a growing interest in **project management**. I really enjoy joining **hackathons** — whether it’s building ideas from scratch or being part of a team and seeing how everything comes together. I’m still exploring what I want long-term, but I like learning as I go and being involved in things that actually create something real ><
+I’m an Information Systems student currently exploring different paths in tech, with a growing interest in **project management**. I really enjoy joining **hackathons** — whether it’s building ideas from scratch or leading a team and seeing how everything comes together. I’m still exploring what I want long-term, but I like learning as I go and being involved in things that actually create something real ><
 
 ---
 

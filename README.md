@@ -15,15 +15,16 @@ in things that actually create something real ><
 
 ---
 
-## My Tech Stack
+## 💻 Tools I Work Wit
+My current tech stack and tools I’m familiar with.
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sqlite,figma)](https://skillicons.dev)
 
 
 ---
 
-## Currently Exploring
+## 🌱 What I’m Learning Right No
+Technologies I’m actively exploring and improving on.
 
 [![Exploring](https://skillicons.dev/icons?i=flutter,nodejs)](https://skillicons.dev)
 

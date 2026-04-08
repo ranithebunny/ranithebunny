@@ -11,7 +11,7 @@ I’m an Information Systems student currently exploring different paths in tech
 ## 💻 Tools I Work With
 My current tech stack and tools I’m familiar with.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sqlite,figma,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,sqlite,figma)](https://skillicons.dev)
 
 
 ---

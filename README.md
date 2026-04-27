@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m an Information Systems student currently exploring different paths in tech, with a growing interest in **project management**. I’m still exploring what I want long-term, but I like learning and creating as I go .✦ ݁˖
+I’m an Information Systems student currently exploring different paths in tech. I’m still exploring what I want long-term, but I like learning and creating as I go .✦ ݁˖
 
 ---
 

@@ -14,14 +14,6 @@ Technologies and tools I've worked with through school, personal, and full-stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,postgres,prisma,sqlite,figma,vscode,supabase,vite)](https://skillicons.dev)
 
-### Other Technologies I've Worked With
-
-* REST APIs
-* JWT Authentication
-* bcrypt / Password Hashing
-* Cloudinary / Cloud Storage
-* SQL & Database Design
-
 ---
 
 ## 🌱 Currently Learning
@@ -34,8 +26,6 @@ Currently interested in learning more about:
 * Backend development
 * Database design
 * API development
-* UI/UX
-* Mobile app development
 
 ---
 
@@ -57,7 +47,6 @@ Through this project, I've been able to learn and practice:
 * Inventory management
 * Order management
 * Business expense tracking
-* Transactional email notifications
 * Deploying full-stack applications
 
 It's been one of my biggest projects so far and has helped me understand how the different parts of a real-world application work together. 🍌

@@ -6,14 +6,17 @@
 
 I’m an Information Systems student exploring different areas of technology through hands-on projects. I enjoy building websites and applications, learning new technologies, and figuring things out as I go. ✦ ݁˖
 
-
 ---
 
 ## 💻 Tools & Technologies I Work With
 
 Technologies and tools I've worked with through school, personal, and full-stack projects.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,postgres,prisma,sqlite,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,postgres,prisma,sqlite,figma,vscode,supabase,vite)](https://skillicons.dev)
+
+### Development & Deployment
+
+[![My Tools](https://skillicons.dev/icons?i=vercel,render)](https://skillicons.dev)
 
 ### Other Technologies I've Worked With
 
@@ -28,8 +31,6 @@ Technologies and tools I've worked with through school, personal, and full-stack
 ## 🌱 Currently Learning
 
 I'm continuously exploring new technologies and improving my development skills.
-
-[![Exploring](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 Currently interested in learning more about:
 

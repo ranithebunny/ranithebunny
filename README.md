@@ -20,7 +20,6 @@ Technologies and tools I've worked with through school, personal, and full-stack
 * REST APIs
 * JWT Authentication
 * bcrypt / Password Hashing
-* Git & GitHub
 * Cloudinary / Cloud Storage
 * SQL & Database Design
 

@@ -14,10 +14,6 @@ Technologies and tools I've worked with through school, personal, and full-stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,postgres,prisma,sqlite,figma,vscode,supabase,vite)](https://skillicons.dev)
 
-### Development & Deployment
-
-[![My Tools](https://skillicons.dev/icons?i=vercel,render)](https://skillicons.dev)
-
 ### Other Technologies I've Worked With
 
 * REST APIs

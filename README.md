@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m an Information Systems student exploring different areas of technology through hands-on projects. I enjoy building websites and applications, learning new technologies, and figuring things out as I go. ✦ ݁˖
+I'm an Information Systems student exploring different areas of technology through hands-on projects. I enjoy building websites and applications, learning new technologies, and figuring things out as I go. ✦ ݁˖
 
 ---
 
@@ -31,7 +31,7 @@ Currently interested in learning more about:
 
 ## 📌 What I've Been Building
 
-Recently, I've been working on a **full-stack e-commerce and business management system** for a banana pudding business.
+Recently, I've been working on a [**full-stack e-commerce and business management system**](https://github.com/ranithebunny/banana-pudding-shop) for a banana pudding business.
 
 Through this project, I've been able to learn and practice:
 

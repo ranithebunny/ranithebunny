@@ -49,8 +49,6 @@ Through this project, I've been able to learn and practice:
 * Business expense tracking
 * Deploying full-stack applications
 
-It's been one of my biggest projects so far and has helped me understand how the different parts of a real-world application work together. 🍌
-
 ---
 
 ## 📫 Contact Me

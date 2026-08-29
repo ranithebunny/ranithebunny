@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm an Information Systems student exploring different areas of technology through hands-on projects. I enjoy building websites and applications, learning new technologies, and figuring things out as I go. ✦ ݁˖
+I'm an Information Systems student exploring different areas of technology through hands-on projects. I enjoy building websites and applications, learning new technologies, and figuring things out [...]
 
 ---
 
@@ -12,7 +12,7 @@ I'm an Information Systems student exploring different areas of technology throu
 
 Technologies and tools I've worked with through school, personal, and full-stack projects.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,postgres,prisma,sqlite,figma,vscode,supabase,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,cs,python,php,nodejs,postgres,sqlite,git,github,figma,prisma)](https://skillicons.dev)
 
 ---
 

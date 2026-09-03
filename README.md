@@ -12,7 +12,7 @@ I'm an Information Systems student exploring different areas of technology throu
 
 Technologies and tools I've worked with through school, personal, and full-stack projects.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,cs,python,php,nodejs,postgres,sqlite,git,github,figma,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,cs,python,php,nodejs,react,vite,express,postgres,sqlite,supabase,git,github,figma,prisma)](https://skillicons.dev)
 
 ---
 

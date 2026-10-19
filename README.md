@@ -28,12 +28,6 @@ Currently interested in learning more about:
 
 ---
 
-## 📌 What I've Been Building
-
-Recently, I've been working on a [**full-stack e-commerce and business management system**](https://github.com/ranithebunny/banana-pudding-shop) for a banana pudding business.
-
----
-
 ## 📫 Contact Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/rania-san-pedro-638a472a9/)

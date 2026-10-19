@@ -10,7 +10,7 @@ I'm an Information Systems student. I enjoy building websites and applications, 
 
 ## 💻 Tools & Technologies I Work With
 
-Technologies and tools I've worked with through school, personal, and full-stack projects.
+Technologies and tools I've worked with through school and personal projects.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,cs,python,php,nodejs,react,vite,express,postgres,sqlite,supabase,git,github,figma,prisma)](https://skillicons.dev)
 

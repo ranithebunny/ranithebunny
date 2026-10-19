@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm an Information Systems student exploring different areas of technology through hands-on projects. I enjoy building websites and applications, learning new technologies, and figuring things out [...]
+I'm an Information Systems student. I enjoy building websites and applications, learning new technologies, and figuring things out [...]
 
 ---
 
